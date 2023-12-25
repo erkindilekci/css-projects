@@ -1,1 +1,1 @@
-![image](https://github.com/erkindilekci/login-screen-css/assets/109282517/429b0a12-85f1-4bae-bba5-987a45697869)
+![image](https://github.com/erkindilekci/css-projects/assets/109282517/c4fb93af-e7cd-4429-8dcd-519b2aa6399b)
